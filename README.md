@@ -30,8 +30,6 @@ Upload and preprocess fundus images.
 
 Predict HR grade (0 to 3).
 
-Display Grad-CAM heatmaps for model explainability.
-
 Export results to CSV.
 
 Batch processing of images.
